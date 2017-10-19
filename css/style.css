@@ -11,6 +11,7 @@ body
 }
 header{
 	width: 100%;
+	border-radius: 25px;
 	background-color: rgb(113, 115, 117);
 	padding-top: 20px;
 	margin-bottom: 20px;
@@ -19,6 +20,7 @@ header{
 }
 .content{
 	width: 100%;
+	border-radius: 25px;
 	background-color: #babbbd;
 	color: white;
 	margin-bottom:20px;
@@ -36,6 +38,7 @@ header{
 }
 .footer {
 	background: rgb(132, 133, 134);
+	border-radius: 25px;
 	height: auto;
 	padding-bottom: 30px;
 	position: relative;
@@ -150,6 +153,7 @@ header{
 }
 .footer-bottom {
 	background: rgb(170, 167, 167);
+	border-radius: 25px;
 	border-top: 1px solid #DDDDDD;
 	padding-top: 10px;
 	padding-bottom: 10px;
